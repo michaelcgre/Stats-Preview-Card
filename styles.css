@@ -21,7 +21,6 @@ main {
         justify-content: center;
         width: 100vw;
         align-content: center;
-        padding-top: 6rem;
     }
 }
 
@@ -43,7 +42,7 @@ main {
         border-top-right-radius: 5%;
         border-bottom-right-radius: 5%;
         width: 36rem;
-        height: 23rem;
+        height: 29rem;
     }
 }
 
@@ -100,7 +99,7 @@ main {
     .categories {
         display: flex;
         justify-content: space-around;
-        padding-top: 1.5rem;
+        padding-top: 4rem;
     }
 }
 
